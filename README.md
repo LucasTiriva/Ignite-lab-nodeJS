@@ -1,5 +1,5 @@
 # Ignite-lab-nodeJS :rocket:
-Projeto em desenvolvimento com a [Rocketseat](https://app.rocketseat.com.br) do Ignite Lab NodeJS.
+Projeto em desenvolvimento com a [Rocketseat](https://rocketseat.com.br) do Ignite Lab NodeJS.
 
 Nunca tinha desenvolvido nada no Back-end, então tudo está sendo novo e muito desafiador.
 
