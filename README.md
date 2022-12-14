@@ -3,7 +3,7 @@ Projeto em desenvolvimento com a [Rocketseat](https://rocketseat.com.br) do Igni
 
 Nunca tinha desenvolvido nada no Back-end, então tudo está sendo novo e muito desafiador.
 
-## Diculdades durante o desenvolvimento
+## Dificuldades durante o desenvolvimento
 - Novos frameworks e linguagem que nunca trabalhei
 - Nomenclaturas e palavras desconhecidas
 - Ainda não tenho tanta velocidade para escrever código então levei 4 horas para fazer o projeto que está em 50min de video kk
